@@ -215,3 +215,102 @@ webarelywork/
 │
 ├── README.md           # This file
 └── LICENSE             # MIT (open for contributions)
+
+---
+
+## 🚀 Run Locally
+
+```bash
+# Clone repo
+git clone https://github.com/SheillaO/WeBarelyWork.git
+cd WeBarelyWork
+
+# Open in browser
+open index.html
+
+# Or use a local server
+python3 -m http.server 8000
+# Navigate to localhost:8000
+```
+
+**No build process. No dependencies. Just open and run.**
+
+---
+
+## 🎯 Key Learnings
+
+### Product Insights
+- **Insight 1:** Coworking differentiation isn't features (all have WiFi/coffee). It's philosophy.
+- **Insight 2:** Remote workers want permission to work less, not tools to work more.
+- **Insight 3:** "Anti-hustle" positioning attracts senior engineers (burned out from FAANG grind).
+
+### Technical Decisions
+- **Decision 1:** Vanilla JS over React = faster TTI (Time to Interactive)
+- **Decision 2:** LocalStorage waitlist = validate before building backend
+- **Decision 3:** Semantic HTML = better SEO + accessibility than JS-heavy SPAs
+
+### Go-to-Market Strategy
+- **Strategy 1:** Start with Nairobi (lower rents, high growth, underserved market)
+- **Strategy 2:** Waitlist → Invite-only → Referral loops = FOMO + exclusivity
+- **Strategy 3:** Position as "wellness for developers" to tap $4.5T wellness market
+
+---
+
+## 👥 User Testimonials (From Interviews)
+
+> *"Every coworking space says 'be productive.' You're the first to say 'take a nap.'"*  
+> — **Atieno M.**, Software Engineer, Safaricom
+
+> *"I'd pay $180/mo just for permission to leave at 2pm without guilt."*  
+> — **James K.**, Product Designer, Andela
+
+> *"WeWork makes me feel like I should work 12 hours. This sounds like therapy."*  
+> — **Sarah O.**, Developer Advocate, Twilio
+
+---
+
+## 📞 About the Creator
+
+**Sheilla O.**  
+Technical Product Marketing Manager | Nairobi, Kenya 🇰🇪
+
+**Background:**
+- 7 years in product marketing across healthcare, fintech, and developer tools
+- Led GTM for API products serving 10M+ developers (previous role)
+- Built and scaled PLG motions for B2B SaaS (free → paid conversion)
+
+**Philosophy:**
+*"The best products solve problems customers didn't know they were allowed to have."*
+
+### Portfolio Highlights
+- 💊 [**GLP-1 Companion**](https://glp-1-companion.netlify.app/) - Healthcare utility (40M TAM)
+- 🌊 [**Bahari Leads**](https://baharileads.netlify.app/) - B2B SaaS for emerging markets
+- 🔐 [**AI-Proof Passwords**](https://ai-proof-password-generator.netlify.app/) - Security positioning
+- 🎨 [**OldGram**](https://mysocialappclone.netlify.app/) - Social media interaction design
+
+---
+
+## 📜 License
+
+MIT License - Feel free to fork and adapt for your market.
+
+---
+
+## 🙏 Acknowledgments
+
+- **Buffer's State of Remote Work** for burnout statistics
+- **30+ digital nomads** who shared their coworking frustrations
+- **Scrimba community** for encouraging me to productize this idea
+- **My therapist** for validating that "working less" is not lazy
+
+---
+
+<div align="center">
+
+
+
+[Join Waitlist](https://webarelywork.netlify.app) • [View Demo](https://webarelywork.netlify.app) • [Contribute](https://github.com/SheillaO/WeBarelyWork/issues)
+
+*Built with intention, not urgency.*
+
+</div>
