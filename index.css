@@ -398,3 +398,34 @@ main {
     width: 50%;
     filter: brightness(0) invert(1);
 }
+/* ========== FOOTER ========== */
+footer {
+    background: var(--olive);
+    color: var(--cream);
+    text-align: center;
+    padding: 40px;
+    font-size: 14px;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 36px;
+    }
+    
+    .hero-stats,
+    .problem-grid,
+    .testimonial-grid {
+        grid-template-columns: 1fr;
+        flex-direction: column;
+    }
+    
+    .nav-item {
+        display: none;
+    }
+    
+    .waitlist-form {
+        flex-direction: column;
+    }
+}
+
