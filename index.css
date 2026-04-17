@@ -33,3 +33,14 @@ nav ul {
     max-width: 1200px;
     margin: 0 auto;
 }
+.logo {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--cream);
+}
+
+.tagline {
+    font-size: 13px;
+    color: var(--orange);
+    font-weight: 600;
+}
