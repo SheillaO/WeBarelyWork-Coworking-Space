@@ -1,8 +1,12 @@
 # WeBarelyWork - Coworking Spaces for Sustainable Productivity
 
 > *"The first coworking network designed to combat remote work burnout, not enable it."*
+>
+> 
+<img width="1696" height="845" alt="Webarely Working" src="https://github.com/user-attachments/assets/f4886eeb-8956-4be2-b3df-a235e35f7e48" />
 
-[![Live Demo](https://img.shields.io/badge/demo-live-034c3c)](https://webarelywork.netlify.app)
+
+[![Live Demo](https://img.shields.io/badge/demo-live-034c3c)](https://webarelyworkingcoworkingspace.netlify.app/)
 [![GitHub](https://img.shields.io/badge/repo-github-e5989b)](https://github.com/SheillaO/WeBarelyWork)
 [![Product Hunt](https://img.shields.io/badge/Product_Hunt-Coming_Soon-ecd444)](https://producthunt.com)
 
