@@ -286,3 +286,115 @@ main {
 .btn-primary:hover {
     background: var(--brandy);
 }
+.testimonials {
+    background: white;
+    padding: 80px 40px;
+    text-align: center;
+}
+
+.testimonials h2 {
+    font-size: 36px;
+    color: var(--olive);
+    margin-bottom: 50px;
+}
+
+.testimonial-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.testimonial-card {
+    background: var(--cream);
+    padding: 30px;
+    border-radius: 8px;
+    }
+
+.testimonial-card p {
+    font-size: 15px;
+    font-style: italic;
+    color: var(--olive);
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.testimonial-author strong {
+    display: block;
+    font-size: 14px;
+    color: var(--olive);
+    margin-bottom: 3px;
+}
+
+.testimonial-author span {
+    font-size: 12px;
+    color: #999;
+}
+
+/* ========== CTA SECTION ========== */
+.cta-section {
+    background: var(--olive);
+    padding: 80px 40px;
+    text-align: center;
+    color: white;
+}
+
+.cta-section h2 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.cta-section p {
+    font-size: 16px;
+    margin-bottom: 30px;
+    opacity: 0.9;
+}
+
+.waitlist-form {
+    display: flex;
+    gap: 10px;
+    max-width: 600px;
+    margin: 0 auto 10px;
+    justify-content: center;
+}
+
+.email-input,
+.city-input {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1;
+}
+
+.btn-primary.large {
+    padding: 12px 30px;
+}
+
+.form-note {
+    font-size: 12px;
+    opacity: 0.7;
+}
+.chatbox-bg {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: var(--rose);
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    z-index: 999;
+}
+
+.chatbox-bg:hover {
+    background: var(--brandy);
+}
+
+.chatbox-img {
+    margin: auto;
+    width: 50%;
+    filter: brightness(0) invert(1);
+}
